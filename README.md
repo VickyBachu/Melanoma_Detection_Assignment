@@ -12,7 +12,7 @@ The problem can be solved using the dataset consists of 2357 images of malignant
 3.Data Preparation  
 4.Model Building and Training  
 5.Data Augmentation  
-6.Class Distribution 
+6.Class Distribution
 7.Handling Class imbalances  
 8.Final Result Analysis 
 
